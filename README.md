@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack software development and management engineer specialized in bakc-end. And I'm from Sinaloa, México btw 😎</h3>
 
 <p align="center">
-  <img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true" alt="God of Programming" width=250 height=100/>
+  <img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true" alt="God of Programming" width=250 />
 <p/>
 
 - 🌱 I’m currently learning **Python, AI, and APIs REST**
