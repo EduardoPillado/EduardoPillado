@@ -1,4 +1,4 @@
-<img src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png" width='40' align="left"/>
 
 <h1 align="center">Hi everyone, I'm Pillado, Eduardo Pillado 😄</h1>
 <h3 align="center">A full-stack software development and management engineer specialized in bakc-end. And I'm from Sinaloa, México btw 😎</h3>
