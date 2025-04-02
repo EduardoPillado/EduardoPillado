@@ -1,4 +1,5 @@
 ![God of Programming](https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true)
+<img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true" alt="God of Programming" width="200" height="150">
 
 <h1 align="center">Hi everyone, I'm Pillado, Eduardo Pillado 😄</h1>
 <h3 align="center">A full-stack software development and management engineer specialized in bakc-end. And I'm from Sinaloa, México btw 😎</h3>
