@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://wa.me/+52691183490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+52691183490" height="30" width="40" /></a>
-<a href="mailto:eduardompilladoo5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="eduardompilladoo5@gmail.com" height="30" width="40" /></a>
+<a href="mailto:eduardompilladoo5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="eduardompilladoo5@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eduardopillado-00ab05320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardopillado" height="30" width="40" /></a>
 <a href="https://twitter.com/pillado555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pillado555" height="30" width="40" /></a>
 <a href="https://fb.com/eduardomanuel.pilladoosuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eduardomanuel.pilladoosuna" height="30" width="40" /></a>
