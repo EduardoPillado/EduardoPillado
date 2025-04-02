@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true" alt="God of Programming" width=250 />
-  **"We must be better" — Kratos**
 <p/>
+<p align="center">"We must be better" — Kratos</p>
 
 - 💻 I’m currently learning **Python, AI, and APIs REST**
 
