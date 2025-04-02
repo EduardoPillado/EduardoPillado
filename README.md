@@ -1,5 +1,4 @@
-![Imagen](https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png)
-
+![Imagen](https://raw.githubusercontent.com/EduardoPillado/EduardoPillado/main/God_of_Programming.png)
 
 <h1 align="center">Hi everyone, I'm Pillado, Eduardo Pillado 😄</h1>
 <h3 align="center">A full-stack software development and management engineer specialized in bakc-end. And I'm from Sinaloa, México btw 😎</h3>
