@@ -1,19 +1,17 @@
 <h1 align="center">Hi everyone, I'm Pillado, Eduardo Pillado 😄</h1>
-<h3 align="center">A full-stack software development and management engineer specialized in bakc-end. And I'm from Sinaloa, México btw 😎</h3>
+<h3 align="center">I'm a full-stack software development and management engineer specialized in bakc-end. I really like video games, movies, and cats. I enjoy learning about the latest technologies, and whenever possible, I can collaborate and improve my skills and knowledge. And I'm from Sinaloa, México btw 😎</h3>
 
 <p align="center">
   <img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true" alt="God of Programming" width=250 />
 <p/>
 
-- 🌱 I’m currently learning **Python, AI, and APIs REST**
+- 💻 I’m currently learning **Python, AI, and APIs REST**
 
 - 👨‍💻 You can find more about me and my projects at **https://eduardopillado.proyectosidgs.com**
   
 - 💬 Ask me about **Laravel**
-  
-- 📫 Reach me here in **eduardompilladoo5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Ways to contact me:</h3>
 <p align="left">
 <a href="https://wa.me/+52691183490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+52691183490" height="30" width="40" /></a>
 <a href="mailto:eduardompilladoo5@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="eduardompilladoo5@gmail.com" height="30" width="40" /></a>
