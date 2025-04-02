@@ -2,16 +2,16 @@
 <h3 align="center">A full-stack software development and management engineer specialized in bakc-end. And I'm from Sinaloa, México btw 😎</h3>
 
 <p align="center">
-  - 🌱 I’m currently learning **Python, AI, and APIs REST**
-
-  - 👨‍💻 You can find more about me and my projects at [https://eduardopillado.proyectosidgs.com](https://eduardopillado.proyectosidgs.com)
-  
-  - 💬 Ask me about **Laravel**
-  
-  - 📫 Reach me here in **eduardompilladoo5@gmail.com**
-  
   <img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true" alt="God of Programming" width=400 heigh=250>
 <p/>
+
+- 🌱 I’m currently learning **Python, AI, and APIs REST**
+
+- 👨‍💻 You can find more about me and my projects at [https://eduardopillado.proyectosidgs.com](https://eduardopillado.proyectosidgs.com)
+  
+- 💬 Ask me about **Laravel**
+  
+- 📫 Reach me here in **eduardompilladoo5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
