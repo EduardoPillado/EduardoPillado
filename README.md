@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning **Python, AI, and APIs REST**
 
-- 👨‍💻 You can find more about me and my projects at **https://eduardopillado.proyectosidgs.com**
+- 👨‍💻 You can find more about me and my projects at **https://eduardopillado.github.io/portfolio/**
   
 - 💬 Ask me about **Laravel**
 
