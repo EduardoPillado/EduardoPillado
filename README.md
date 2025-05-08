@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Pillado, Eduardo Pillado 😄</h1>
-<h3 align="center">I'm a full-stack software development and management engineer specialized in bakc-end. I really like video games, movies, and cats. I enjoy learning about the latest technologies, and whenever possible, I can collaborate and improve my skills and knowledge. And I'm from Sinaloa, México btw 😎</h3>
+<h3 align="center">I'm a full-stack software development and management engineer specialized in back-end. I really like video games, movies, and cats. I enjoy learning about the latest technologies, and whenever possible, I can collaborate and improve my skills and knowledge. And I'm from Sinaloa, México btw 😎</h3>
 
 <p align="center">
   <img src="https://github.com/EduardoPillado/EduardoPillado/blob/main/God_of_Programming.png?raw=true" alt="God of Programming" width=250 />
